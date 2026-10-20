@@ -7,11 +7,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MOHAMED%20HAMED&fontSize=48&fontColor=00F5FF&stroke=7C3AED&strokeWidth=2&animation=fadeIn&color=0:080B16,100:17152D" width="100%" alt="Mohamed Hamed — Neon Developer Banner"/>
+<img src="assets/banner.svg" width="100%" alt="Mohamed Hamed: animated knowledge-graph banner"/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&height=100&lines=Computer+Science+Student+%F0%9F%8E%93;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Software+%26+Backend+Development+%F0%9F%92%BB;Building.+Learning.+Improving.+%E2%9A%A1" alt="Animated developer introduction"/>
-</a>
+<br/>
+
+<img src="assets/terminal.svg" width="720" alt="Animated terminal: whoami, focus, projects, status"/>
 
 <br/>
 
