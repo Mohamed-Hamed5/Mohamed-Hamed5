@@ -20,7 +20,7 @@
 </a>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SOFTWARE-17152D?style=for-the-badge&logo=probot&logoColor=00F5FF" alt="Current focus"/>
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED" alt="Learning status"/>
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Hamed5&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Hamed5&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
